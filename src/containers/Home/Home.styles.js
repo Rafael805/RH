@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const RHImage = styled.div`
+export const HomeImage = styled.div`
    width: 100%;
    height: 100vh;
    background-image: url('${require('../../assets/comp.gif')}');
@@ -16,9 +16,7 @@ export const RHImage = styled.div`
    text-align: center;
    color: white;
 
-   font-size: 2em;
-
    h1 {
-      margin-bottom: 0;
+      font-size: 1.6em;
    }
 `;

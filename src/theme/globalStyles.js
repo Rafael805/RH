@@ -15,4 +15,14 @@ injectGlobal`
    h2 {
       font-size: 1em;
    }
+
+   .navbar-inverse .navbar-brand {
+      font-size: 1.5em;
+      color: white;
+   }
+
+   .Nav {
+      text-align: center;
+   }
+
 `
